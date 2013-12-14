@@ -1,3 +1,4 @@
+//this one is not identified as any language, huh.
 #define AI_MeleeTry
 if(distance_to_object(enemy)<=reach && attack=0){
     attack=melee_delay;
